@@ -1,5 +1,3 @@
-# BTforROS
-
 # TurtleBot3 Behavior Tree with py_trees
 
 This repository contains a behavior tree implementation for TurtleBot3 using `py_trees`. The behavior tree is designed to control the robot's movement and avoid obstacles autonomously.
